@@ -41,7 +41,7 @@ def display_project_overview():
     - **Physical Activity**: Essential for understanding lifestyle impacts on obesity.
     """)
 
-    st.image(r"C:\Users\ABHI MANE\Desktop\Placement\Infosys Internship 5.0\projects\Predcitions\app\test\streamlit\project tabnet feature imp.png", use_column_width=True, caption="Feature Importance Analysis")
+    st.image("images/project tabnet feature imp.png", use_column_width=True, caption="Feature Importance Analysis")
 
     st.markdown("---")
 

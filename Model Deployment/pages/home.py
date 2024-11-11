@@ -23,7 +23,7 @@ def display_home():
     - **Detailed Insights:** Learn more about the model’s accuracy and the importance of different features in predictions.
     """)
 
-    st.image(r"C:\Users\ABHI MANE\Desktop\Placement\Infosys Internship 5.0\projects\Predcitions\app\test\streamlit\home Healthcare.png", use_column_width=True, caption="Empowering health through data-driven insights")
+    st.image("images/home Healthcare.png", use_column_width=True, caption="Empowering health through data-driven insights")
 
     st.markdown("---")
     st.subheader("How to Get Started:")

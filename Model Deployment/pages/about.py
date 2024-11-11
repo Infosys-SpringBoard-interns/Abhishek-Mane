@@ -17,11 +17,11 @@ def display_about():
         """
     )
 
-    st.subheader("The Team 👥")
-    st.write("""
-    - **AI Experts**: Our AI specialists developed and fine-tuned the prediction model for accuracy and efficiency.
-    - **Data Scientists**: They explored various data sets, optimized features, and ensured data quality.
-    - **Healthcare Consultants**: Provided input on healthcare-related features and tailored health suggestions.
-    """)
+    #st.subheader("The Team 👥")
+    #st.write("""
+    #- **AI Experts**: Our AI specialists developed and fine-tuned the prediction model for accuracy and efficiency.
+    #- **Data Scientists**: They explored various data sets, optimized features, and ensured data quality.
+    #- **Healthcare Consultants**: Provided input on healthcare-related features and tailored health suggestions.
+    #""")
 
-    st.image(r"C:\Users\ABHI MANE\Desktop\Placement\Infosys Internship 5.0\projects\Predcitions\app\test\streamlit\working to healthier.webp", use_column_width=True, caption="Our team dedicated to building a healthier tomorrow")
+    st.image("images/working to healthier.webp", use_column_width=True, caption="Our team dedicated to building a healthier tomorrow")
