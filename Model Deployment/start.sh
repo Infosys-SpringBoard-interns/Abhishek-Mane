@@ -4,4 +4,4 @@
 chmod +x start.sh
 
 # Start the Streamlit app
-streamlit run app.py
+streamlit run main.py
